@@ -5,10 +5,10 @@
 This software was created as part of Semester Project in the second semester of undergraduate program in Computer Science.
 
 The group members are:
-Shashwat Khadka
-Shubin Pokhrel
-Siddhartha Lal Pradhan
-Binaya Raj Thapa
+1. Shashwat Khadka
+2. Shubin Pokhrel
+3. Siddhartha Lal Pradhan
+4. Binaya Raj Thapa
 
 ### The Report of the project is attached below:
 [Report - Formatted.pdf](https://github.com/user-attachments/files/19037456/Report.-.Formatted.pdf)
